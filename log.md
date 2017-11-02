@@ -42,6 +42,41 @@
 **Link to work:** 
 [MatchFour](https://github.com/jharkreader/match-four)
 
+### Day 5: Sunday, October 29th, 2017
+
+**Today's Progress**: I met with my group to talk about our project. We discussed on ways to improve our project and also implemented some feedback we received for user testing. 
+
+**Thoughts:** I love working in groups. It's great when we are able to get together and brainstorm. 
+
+**Link to work:** 
+[MatchFour](https://github.com/jharkreader/match-four)
+
+
+### Day 6: Monday, October 30th, 2017
+
+**Today's Progress**: I had a mock interview today. 
+
+**Thoughts:** I need to spend more time thinking of my previous work experiences and formulating my responses using the STAR method. For my group project, I implemented redirects to redirect variables. 
+
+**Link to work:** 
+[MatchFour](https://github.com/jharkreader/match-four)
+
+### Day 7: Tuesday, October 31st, 2017
+
+**Today's Progress**: I added user sessions to our group project. 
+
+**Thoughts:** User sessions were a lot easier than I thought. I wonder if there is a better way to implement user sessions than HTTPSession. 
+
+**Link to work:** 
+[MatchFour](https://github.com/jharkreader/match-four)
+
+### Day 8: Wednesday, November 1st, 2017
+
+**Today's Progress**: I reviewed data the LinkedList data structure and a binary search. 
+
+**Thoughts:** I need to continue analyzing data structures. It is one thing to learn something, but another thing to continue building one's proficiency on the subject. 
+
+
 
 
 

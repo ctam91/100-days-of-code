@@ -101,7 +101,7 @@
 **Thoughts:** I found a lot of tutorials to implement a POST request, but not GET. I was starting to get frustrated, but then decided that instead of looking for tutorials, I should just think about what I need to have completed and then try to implement it. So, after thinking about the process (do the POST request backwards), I toyed with my code and was able to successfully implement the GET request to render a user's best time from the database into the browser. 
 
 **Link to work:** 
-[Portfolio](https://github.com/jharkreader/match-four)
+[MatchFour](https://github.com/jharkreader/match-four)
 
 ### Day 11: Sunday, November 5th, 2017
 

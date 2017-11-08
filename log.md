@@ -76,7 +76,61 @@
 
 **Thoughts:** I need to continue analyzing data structures. It is one thing to learn something, but another thing to continue building one's proficiency on the subject. 
 
+### Day 9: Thursday, November 2nd, 2017
 
+**Today's Progress**: Reviewed stacks, hash tables, and search algorithms. Also completed the Gigasecond exercism challenge.
+
+**Thoughts:** I need to continue analyzing data structures and practice algorithim scripting challenges. 
+
+**Link to work:** 
+[Exercism](https://github.com/ctam91/exercism)
+
+### Day 10: Friday, November 3rd, 2017
+
+**Today's Progress**: Worked on my portfolio. Added the main project structure and navigation. 
+
+**Thoughts:** I looked at a lot of developer's portfolios and was amazed by their websites. I kept my website simple with a splash of color. As I continue to develop my own skills, I should also improve my website.
+
+**Link to work:** 
+[Portfolio](https://ctam91.github.io)
+
+### Day 11: Saturday, November 4th, 2017
+
+**Today's Progress**: Worked on MatchFour. Refactored controller, removed UserTime class, and added an AJAX GET request.
+
+**Thoughts:** I found a lot of tutorials to implement a POST request, but not GET. I was starting to get frustrated, but then decided that instead of looking for tutorials, I should just think about what I need to have completed and then try to implement it. So, after thinking about the process (do the POST request backwards), I toyed with my code and was able to successfully implement the GET request to render a user's best time from the database into the browser. 
+
+**Link to work:** 
+[Portfolio](https://github.com/jharkreader/match-four)
+
+### Day 11: Sunday, November 5th, 2017
+
+**Today's Progress**: Worked on my portfolio again. Added some photos and project descriptions
+
+**Link to work:** 
+[Portfolio](https://ctam91.github.io)
+
+### Day 12: Monday, November 6th, 2017
+
+**Today's Progress**: Analyzed the graph data structure and attempted to implement it's methods. 
+
+**Thoughts:** A graph is perhaps the most comples data structure I've come across. I want to dedicate more time to study and use it in practice.
+
+### Day 13: Tuesday, November 7th, 2017
+
+**Today's Progress**: Finalized my portfolio
+
+**Link to work:** 
+[Portfolio](https://ctam91.github.io)
+
+### Day 14: Wednesday, November 8th, 2017
+
+**Today's Progress**: Worked on documentation and added some screenshots to my README documents.
+
+**Thoughts:** It was easier than I thought to add images to my README. I should go through all my README documents and update them. 
+
+**Link to work:** 
+[Cheeses](https://github.com/ctam91/cheese-mvc-persistent)
 
 
 

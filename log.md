@@ -132,5 +132,47 @@
 **Link to work:** 
 [Cheeses](https://github.com/ctam91/cheese-mvc-persistent)
 
+### Day 15: Thursday, November 9th, 2017
+
+**Today's Progress**: Completed the Scrabble and Acronym exercism challenges. 
+
+**Thoughts:** I enjoy completing these challenges and receiving feedback from others. It helps me uncover tools and patterns I have not used before. 
+
+**Link to work:** 
+[Exercism](https://github.com/ctam91/exercism)
+
+### Day 16: Friday, November 10th, 2017
+
+**Today's Progress**: Completed the Difference of Squares and Raindrops exercism challenges. 
+
+**Thoughts:** These exercises allowed me to review the basics of control flow in Java. It was a great refresher. 
+
+**Link to work:** 
+[Exercism](https://github.com/ctam91/exercism)
+
+### Day 17: Saturday, November 11th, 2017
+
+**Today's Progress**: I completed the SpaceAge exercism challenge and spent time refactoring my exercism repo.   
+
+**Link to work:** 
+[Exercism](https://github.com/ctam91/exercism)
+
+### Day 18: Sunday, November 12th, 2017
+
+**Today's Progress**: Today, I spent some time researching how to use the Google Maps Api and how to create a simple maps application. 
+
+**Thoughts:** The Google Maps Api is so well documented! I'm impressed and can't wait to delve more into it. 
+
+**Link to work:** 
+[Simple Weather](https://github.com/ctam91/weather-map/blob/master/index.html)
+
+### Day 18: Monday, November 13th, 2017
+
+**Today's Progress**: I spoke with my former teacher on my Google Maps project idea and he thought it was great.  
+
+**Thoughts:** I'm a little anxious because I'm worried that I may have bitten off more than I can chew. However, if my former teacher thinks that I can do it, then I shall try! He suggested I start by adding a custom data layer with the Google Maps Api. I'm not quite sure how to do this yet, but I'm sure I can figure it out. 
+
+**Link to work:** 
+[Weather](https://github.com/ctam91/weather)
 
 

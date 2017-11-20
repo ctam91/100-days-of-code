@@ -8,6 +8,7 @@
 
 **Link to work:** [Pangram solution](https://github.com/ctam91/exercism/tree/master/pangram)
 
+
 ### Day 1: Wednesday, October 25th, 2017
 
 **Today's Progress**: Today I worked on weather app. I parsed JSON data to utilize weather forecasts. Additionally, my group and I performed user testing today on our MatchFour game. We received a lot of great feedback from our users and I'll be spending the next few days to implement some changes. 
@@ -18,11 +19,13 @@
 1. [WeatherReport](https://github.com/ctam91/weather-report)
 2. [MatchFour](https://github.com/jharkreader/match-four)
 
+
 ### Day 2: Thursday, October 26th, 2017
 
 **Today's Progress**: Today I spent a lot of time reviewing LinkedLists, Stacks, and Queues. 
 
 **Thoughts:** I am able to implement read and methods, but am having trouble with the delete method. Well, I understand that you are supposed to take the previous node and assign previousNode.next = current.next. However, my code is not passing on Stepik. I've heard from my other classmates that their codes are not passing as well. I guess I'll have to wait until the next class day to ask my instructor. 
+
 
 ### Day 3: Friday, October 27th, 2017
 
@@ -33,6 +36,7 @@
 **Link to work:** 
 [WeatherReport](https://github.com/ctam91/weather-report)
 
+
 ### Day 4: Saturday, October 28th, 2017
 
 **Today's Progress**: I was finally able to successfully use an AJAX call to retrieve a User's time on MatchFour.
@@ -41,6 +45,7 @@
 
 **Link to work:** 
 [MatchFour](https://github.com/jharkreader/match-four)
+
 
 ### Day 5: Sunday, October 29th, 2017
 
@@ -61,6 +66,7 @@
 **Link to work:** 
 [MatchFour](https://github.com/jharkreader/match-four)
 
+
 ### Day 7: Tuesday, October 31st, 2017
 
 **Today's Progress**: I added user sessions to our group project. 
@@ -70,11 +76,13 @@
 **Link to work:** 
 [MatchFour](https://github.com/jharkreader/match-four)
 
+
 ### Day 8: Wednesday, November 1st, 2017
 
 **Today's Progress**: I reviewed data the LinkedList data structure and a binary search. 
 
 **Thoughts:** I need to continue analyzing data structures. It is one thing to learn something, but another thing to continue building one's proficiency on the subject. 
+
 
 ### Day 9: Thursday, November 2nd, 2017
 
@@ -85,6 +93,7 @@
 **Link to work:** 
 [Exercism](https://github.com/ctam91/exercism)
 
+
 ### Day 10: Friday, November 3rd, 2017
 
 **Today's Progress**: Worked on my portfolio. Added the main project structure and navigation. 
@@ -93,6 +102,7 @@
 
 **Link to work:** 
 [Portfolio](https://ctam91.github.io)
+
 
 ### Day 11: Saturday, November 4th, 2017
 
@@ -103,27 +113,31 @@
 **Link to work:** 
 [MatchFour](https://github.com/jharkreader/match-four)
 
-### Day 11: Sunday, November 5th, 2017
+
+### Day 12: Sunday, November 5th, 2017
 
 **Today's Progress**: Worked on my portfolio again. Added some photos and project descriptions
 
 **Link to work:** 
 [Portfolio](https://ctam91.github.io)
 
-### Day 12: Monday, November 6th, 2017
+
+### Day 13: Monday, November 6th, 2017
 
 **Today's Progress**: Analyzed the graph data structure and attempted to implement it's methods. 
 
 **Thoughts:** A graph is perhaps the most comples data structure I've come across. I want to dedicate more time to study and use it in practice.
 
-### Day 13: Tuesday, November 7th, 2017
+
+### Day 14: Tuesday, November 7th, 2017
 
 **Today's Progress**: Finalized my portfolio
 
 **Link to work:** 
 [Portfolio](https://ctam91.github.io)
 
-### Day 14: Wednesday, November 8th, 2017
+
+### Day 15: Wednesday, November 8th, 2017
 
 **Today's Progress**: Worked on documentation and added some screenshots to my README documents.
 
@@ -132,7 +146,8 @@
 **Link to work:** 
 [Cheeses](https://github.com/ctam91/cheese-mvc-persistent)
 
-### Day 15: Thursday, November 9th, 2017
+
+### Day 16: Thursday, November 9th, 2017
 
 **Today's Progress**: Completed the Scrabble and Acronym exercism challenges. 
 
@@ -141,7 +156,8 @@
 **Link to work:** 
 [Exercism](https://github.com/ctam91/exercism)
 
-### Day 16: Friday, November 10th, 2017
+
+### Day 17: Friday, November 10th, 2017
 
 **Today's Progress**: Completed the Difference of Squares and Raindrops exercism challenges. 
 
@@ -150,14 +166,16 @@
 **Link to work:** 
 [Exercism](https://github.com/ctam91/exercism)
 
-### Day 17: Saturday, November 11th, 2017
+
+### Day 18: Saturday, November 11th, 2017
 
 **Today's Progress**: I completed the SpaceAge exercism challenge and spent time refactoring my exercism repo.   
 
 **Link to work:** 
 [Exercism](https://github.com/ctam91/exercism)
 
-### Day 18: Sunday, November 12th, 2017
+
+### Day 19: Sunday, November 12th, 2017
 
 **Today's Progress**: Today, I spent some time researching how to use the Google Maps Api and how to create a simple maps application. 
 
@@ -166,7 +184,8 @@
 **Link to work:** 
 [Simple Weather](https://github.com/ctam91/weather-map/blob/master/index.html)
 
-### Day 18: Monday, November 13th, 2017
+
+### Day 20: Monday, November 13th, 2017
 
 **Today's Progress**: I spoke with my former teacher on my Google Maps project idea and he thought it was great.  
 
@@ -176,3 +195,61 @@
 [Weather](https://github.com/ctam91/weather)
 
 
+### Day 21: Tuesday, November 14th, 2017
+
+**Today's Progress**: I spent time trying to use the Java Client Library for the Google Maps Api. 
+
+**Thoughts:** I like the Java Client library, however, I don't think it is as robust as the Google Maps JavaScript Api. Do I need to learn JavaScript? I already know the basics such as control flow and how to create variables and POJOs. However, I'm not sure if I enough to be able to complete this project. Well, there is only one way to find out! JavaScript is a great tool and I want to make my project more dynamic. 
+
+**Link to work:** 
+[Weather](https://github.com/ctam91/weather)
+
+
+### Day 22: Wednesday, November 15th, 2017
+
+**Today's Progress**: I spent time trying to use the Java Client Library for the Google Maps Api. 
+
+**Thoughts:** I like the Java Client library, however, I don't think it is as robust as the Google Maps JavaScript Api. Do I need to learn JavaScript? I already know the basics such as control flow and how to create variables and POJOs. However, I'm not sure if I enough to be able to complete this project. Well, there is only one way to find out! JavaScript is a great tool and I want to make my project more dynamic. 
+
+**Link to work:** 
+[Weather](https://github.com/ctam91/weather)
+
+
+### Day 23: Thursday, November 16th, 2017
+
+**Today's Progress**: I spent time trying to use the Java Client Library for the Google Maps Api. 
+
+**Thoughts:** I like the Java Client library, however, I don't think it is as robust as the Google Maps JavaScript Api. Do I need to learn JavaScript? I already know the basics such as control flow and how to create variables and POJOs. However, I'm not sure if I enough to be able to complete this project. Well, there is only one way to find out! JavaScript is a great tool and I want to make my project more dynamic. 
+
+**Link to work:** 
+[Weather](https://github.com/ctam91/weather)
+
+
+### Day 24: Friday, November 17th, 2017
+
+**Today's Progress**: I fiddled around with the Google Maps marker to put weather icons onto my map. 
+
+**Thoughts:** The markers tutorial on the documentation site is great and extremely useful. I tried looking at some tutorials on YouTube, but the Google documentation was the most helpful. I am defintely going to continue using the documentation first before looking at other tutorials. 
+
+**Link to work:** 
+[Weather](https://github.com/ctam91/weather)
+
+
+### Day 25: Saturday, November 18th, 2017
+
+**Today's Progress**: I spent some time refactoring my code and deleting unused classes (since I will not longer be using Java Client Library). 
+
+**Thoughts:** It's good to routinely clean my code. 
+
+**Link to work:** 
+[Weather](https://github.com/ctam91/weather)
+
+
+### Day 26: Sunday, November 19th, 2017
+
+**Today's Progress**: I added weather icons to my img folder. 
+
+**Thoughts:** I had an early flight this morning and didn't have much time to work this weekend. It's okay to take slower days to catch up with life. 
+
+**Link to work:** 
+[Weather](https://github.com/ctam91/weather)
